@@ -1,5 +1,4 @@
-         PipraPay Payment Module for SMMCrowd
-============================================================
+##PipraPay Payment Module for SMMCrowd
 
 Integrate the PipraPay payment module into your SMMCrowd platform effortlessly by following the steps below.
 
